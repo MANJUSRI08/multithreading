@@ -1,5 +1,3 @@
-# Python program to illustrate the concept
-# of threading
 # importing the threading module
 import threading
 
